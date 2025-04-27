@@ -54,7 +54,7 @@ I'm a passionate **student developer** and **technology enthusiast** who loves c
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/roman-karki-465147352" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/romankarki2017?igsh=anZ0cjFqeW1reWk=" target="_blank">
