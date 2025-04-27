@@ -57,13 +57,13 @@ I'm a passionate **student developer** and **technology enthusiast** who loves c
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+  <a href="https://instagram.com/romankarki2017?igsh=anZ0cjFqeW1reWk=" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
+  <a href="https://twitter.com/ROMANKARKI71468?t=3ahKcxQs72pj1sLbxSbByw&s=09" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank">
+  <a href="https://facebook.com/roman.karki.589" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
