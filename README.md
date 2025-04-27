@@ -23,6 +23,13 @@ I'm a passionate **student developer** and **technology enthusiast** who loves c
 - Concepts: **OOP**, **File Handling**, **UI/UX Design Basics**, **Problem Solving**.
 
 ---
+## 🏆 Achievements
+
+- 🥇 Winner of Python Hackathon at NAMI College (2025)
+- 🏅 Completed 100 Days of Code Challenge
+- 🥈 2nd Place in Intra-College Coding Competition
+
+---
 
 ## 📈 GitHub Stats
 
