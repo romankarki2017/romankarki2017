@@ -48,11 +48,6 @@ I'm a passionate **student developer** and **technology enthusiast** who loves c
 
 ## 🌐 Connect With Me
 
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-- [Portfolio Website (Coming Soon!)](#)
-## 🌐 Connect With Me
-
 <p align="left">
   <a href="https://linkedin.com/in/roman-karki-465147352" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -67,6 +62,7 @@ I'm a passionate **student developer** and **technology enthusiast** who loves c
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+- [Portfolio Website (Coming Soon!)](#)
 ---
 
 ## 🛠️ Badges
