@@ -51,7 +51,22 @@ I'm a passionate **student developer** and **technology enthusiast** who loves c
 - [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
 - [Portfolio Website (Coming Soon!)](#)
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 🛠️ Badges
