@@ -29,6 +29,14 @@ I'm a passionate **student developer** and **technology enthusiast** who loves c
 - 🥈 2nd Place in Intra-College Coding Competition
 
 ---
+## 🧠 My Favorite Learning Resources
+
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [W3Schools](https://www.w3schools.com/)
+- [Traversy Media YouTube Channel](https://www.youtube.com/c/TraversyMedia)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+  ---
 
 ## 📈 GitHub Stats
 
