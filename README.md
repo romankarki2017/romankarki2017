@@ -1,8 +1,8 @@
+
+# Hi there, I'm Roman! 👋
 <p align="center">
   <img src="https://your-image-url.com/banner.gif" alt="Welcome Banner" />
 </p>
-# Hi there, I'm Roman! 👋
-
 Welcome to my GitHub Profile!  
 I'm a passionate **student developer** and **technology enthusiast** who loves coding, creating, and continuously learning new things.
 
