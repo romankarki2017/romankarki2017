@@ -1,12 +1,3 @@
-## 🧩 My Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-ffca28?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
 # Hi there, I'm Roman! 👋
 Welcome to my GitHub Profile!  
 I'm a passionate **student developer** and **technology enthusiast** who loves coding, creating, and continuously learning new things.
