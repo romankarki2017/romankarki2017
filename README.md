@@ -27,11 +27,11 @@ I'm a passionate **student developer** and **technology enthusiast** who loves c
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Roman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=romankarki2017&show_icons=true&theme=radical" alt="Roman's GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Roman's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=romankarki2017&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Roman's GitHub streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankarki2017&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
